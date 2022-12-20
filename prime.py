@@ -1,5 +1,7 @@
 import numpy as np
 
+N = 500
+
 ns = np.array(range(2,N))
 primes = []
 last_prime=2
